@@ -1270,7 +1270,7 @@ footer {
     max-width: 350px;
   }
   .header_slider_button {
-    margin-top: 130px;
+    margin-top: 50px;
   }
   .header-img {
     position: absolute;
@@ -1452,6 +1452,7 @@ footer {
   }
   .header_slider_button {
     margin-top: 100px;
+    margin-bottom: 40px;
   }
   .footer_right {
     display: block;
